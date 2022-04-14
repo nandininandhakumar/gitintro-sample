@@ -1,9 +1,13 @@
 Hello, How are you ? 
 
-<<<<<<< HEAD
+
 
 ggggggggggggggggggdddddddddddd
-=======
+
 Can we meet tomorrow..?
->>>>>>> feature
+
  No, I can't
+
+
+yes we can
+
